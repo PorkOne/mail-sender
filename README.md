@@ -26,3 +26,7 @@ And at the end you have to add the following line into ``/etc/hosts`` file
 ```
 
 After all steps you should be able to see [http://mail-sender.dev/mail_sender.php](http://mail-sender.dev/mail_sender.php)
+
+## Contributung
+
+Look on `CONTRIBUTING.md` file
