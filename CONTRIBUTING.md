@@ -10,7 +10,7 @@ If you'd like to contribute, please read the following:
 
 * [Run project locally][3] 
 
-* Do changes on your forked repository and pull them
+* Do changes on your forked repository and push them
 
 * Open [pull request][4] to upstream repository
   
